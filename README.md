@@ -1,11 +1,12 @@
 # Magda Bo
 I'm Magda from Europe, and I do content on Development. Vue, NodeJS and Unity Developer. 
 
-Traveler, Feminist and Gamer
-
-Team: Apple, Xbox, Nintendo
 
 
+- 🔭 I’m currently working on Chatbot @ Livechat 
+- 👯 I’m looking to collaborate on Open source Projects
+- 💪 Team: Apple, Xbox, Nintendo
+- 🤔 Traveler, Feminist and Gamer
 
 <!--
 **maddybo/maddybo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
