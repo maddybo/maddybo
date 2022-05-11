@@ -1,4 +1,11 @@
-### Hi there 👋
+# Magda Bo
+I'm Magda from Europe, and I do content on Development. Vue, NodeJS and Unity Developer. 
+
+Traveler, Feminist and Gamer
+
+Team: Apple, Xbox, Nintendo
+
+
 
 <!--
 **maddybo/maddybo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
