@@ -8,6 +8,12 @@ I'm Magda from Europe. Vue, NodeJS (NestJS and pure expressJS) and Unity Develop
 - 💪 Team: Apple, Xbox, Nintendo
 - 🤔 Traveler, Feminist and Gamer
 
+My dream tech stack
+- vue3
+- nestJS
+- graphQL
+- postgreSQL
+
 <!--
 **maddybo/maddybo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
