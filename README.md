@@ -1,5 +1,5 @@
 # Magda Bo
-I'm Magda from Europe, and I do content on Development. Vue, NodeJS and Unity Developer. 
+I'm Magda from Europe. Vue, NodeJS (NestJS and pure expressJS) and Unity Developer. 
 
 
 
