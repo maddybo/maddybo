@@ -1,6 +1,7 @@
 # Magda Bo
-I'm Magda from Europe. Vue, NodeJS (NestJS and pure expressJS) and Unity Developer. 
+Hey there, internet friends! 🖐️ I'm Magda from Europe. First of all, let's get one thing straight - I'm a coding ninja. 💻 I love nothing more than tinkering with code and creating awesome things that make people go "wow!" 😎
 
+But back to the code. I'm a master of Vue, NodeJS (NestJS and pure expressJS) and Unity. and I'm always on the lookout for new challenges and opportunities to expand my skill set. So if you've got a cool project you need help with, I'm your person! 👩‍💻👨‍💻
 
 
 - 🔭 I’m currently working on Chatbot @ Livechat 
@@ -9,22 +10,9 @@ I'm Magda from Europe. Vue, NodeJS (NestJS and pure expressJS) and Unity Develop
 - 🤔 Traveler, Feminist and Gamer
 
 My dream tech stack
-- vue3
-- nestJS
-- graphQL
-- postgreSQL
+- VUE3 (composition api)
+- NestJS
+- GraphQL
+- PostgreSQL
 
-<!--
-**maddybo/maddybo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by and checking out my Github page. Let's connect and create some epic stuff together! 🚀
