@@ -1,13 +1,16 @@
 # Magda Bo
 Hey there, internet friends! 🖐️ I'm Magda from Europe. 
 
-- 🔭 I’m currently working on Media Expert App 
-- 👯 I’m looking to collaborate on Open source Projects
+- 🔭 I’m currently working on [Media Expert App](https://www.mediaexpert.pl/)
+- 👯 Open to collaborating on open source projects
 - 💪 Team: Apple, PCMR, Nintendo
-- 🤔 Traveler and Gamer
+- ✈️ Passionate traveler & gamer
+- 🧠 Into personal growth and productivity hacks – [I even built an app for it](https://mangose.io/) 😉
 
-My dream tech stack
-- VUE3 (composition api)
-- NestJS
-- GraphQL
-- PostgreSQL
+🧰 Dream Tech Stack
+- ⚙️ Vue 3 (Composition API)
+- 🧱 NestJS
+- 🧬 GraphQL
+- 🐘 PostgreSQL
+
+> Always learning. Always building. Let’s connect!
