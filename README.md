@@ -10,7 +10,7 @@
 $ open links
 
 Website   <a href="https://magdabo.com/">magdabo.com</a>
-LinkedIn  <a href="https://www.linkedin.com/in/maddybo/">linkedin.com/in/TWOJ-LINKEDIN</a>
+LinkedIn  <a href="https://www.linkedin.com/in/maddybo/">linkedin.com</a>
 
 $ whoami
 
