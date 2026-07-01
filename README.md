@@ -1,16 +1,105 @@
-# Magda Bo
-Hey there, internet friends! 🖐️ I'm Magda from Europe. 
+<table>
+<tr>
+<td valign="top">
 
-- 🔭 I’m currently working on [Media Expert App](https://www.mediaexpert.pl/)
-- 👯 Open to collaborating on open source projects
-- 💪 Team: Apple, PCMR, Nintendo
-- ✈️ Passionate traveler & gamer
-- 🧠 Into personal growth and productivity hacks – [I even built an app for it](https://mangose.io/) 😉
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│ magda@mborowska.com  ~  [session: active]                    │
+└──────────────────────────────────────────────────────────────┘
 
-🧰 Dream Tech Stack
-- ⚙️ Vue 3 (Composition API)
-- 🧱 NestJS
-- 🧬 GraphQL
-- 🐘 PostgreSQL
+$ open links
 
-> Always learning. Always building. Let’s connect!
+Website   <a href="https://magdabo.com/">magdabo.com</a>
+LinkedIn  <a href="https://www.linkedin.com/in/maddybo/">linkedin.com/in/TWOJ-LINKEDIN</a>
+
+$ whoami
+
+╭──────────────────────────────────────────────────────────────╮
+│ Magda · Frontend Developer from Europe                       │
+│ Currently working on <a href="https://www.mediaexpert.pl/">Media Expert App</a>                        │
+│ Founder of <a href="https://mangose.app/">Mangose</a>                                           │
+╰──────────────────────────────────────────────────────────────╯
+
+$ cat profile.txt
+
+Hey there, internet friends! 🖐️
+
+I build apps, break layouts, fix them again,
+and turn productivity ideas into actual products.
+
+Passionate traveler, gamer and tech nerd.
+Into personal growth, productivity hacks,
+and creating tools that make life a bit easier.
+
+$ cat work.conf
+
+[current]       <a href="https://www.mediaexpert.pl/">Media Expert App</a>
+[personal]      <a href="https://mangose.app/">Mangose</a>
+[open-source]   open to collaboration
+[interests]     frontend · mobile · AI · productivity
+
+$ cat stack.conf
+
+[frontend]      Vue 3 · Composition API · TypeScript
+[backend]       NestJS · GraphQL
+[mobile]        Swift · Kotlin
+[database]      PostgreSQL
+[platforms]     Web · iOS · Android · PWA
+
+$ cat teams.txt
+
+Apple · PCMR · Nintendo · Linux
+
+$ cat hobbies.txt
+
+travel · gaming · pokémon · nintendo · sci-fi
+
+$ _
+</pre>
+
+</td>
+<td valign="top">
+
+<pre>
+⠀⠀⠀⠀⠀⠀⢠⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢠⠃⢁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⣄⠀⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠘⣯⢣⡀⠀⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢹⠀⢳⡀⡀⠠⡑⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⡆⠀⢱⣘⠶⠒⠉⠀⠒⠢⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠂⠀⡆⠀⠀
+⠀⠀⣀⠀⠀⠠⠀⠼⢵⣞⠁⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠀⠒⠒⠒⠂⠤⠄⠤⢴⠆⠀⠀⠀⢀⡤⠊⠁⣀⠠⠄⠚⠁⠀⠀
+⢰⣊⠀⠀⠀⠀⠀⢀⣿⣿⣀⣴⣶⡄⠀⠀⠀⠀⠐⠀⢀⣀⡠⠤⠤⠔⠐⠒⣒⡶⠖⠁⠀⠀⠀⢠⠊⢀⣴⠟⠀⣀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠿⠊⠙⣿⣾⠏⠘⠫⢁⠔⢂⣀⡀⢀⠁⠀⠀⣠⠔⢊⡠⠔⠋⠁⠀⠀⠀⠀⠀⢠⠇⢰⡿⠋⠁⢀⣀⡀⠀⠉⢲⡄
+⠀⠀⠀⠀⠀⠀⠀⠀⠱⡈⠀⠀⠀⢿⣯⣵⡿⠃⠈⠑⠢⡜⠓⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⢀⡏⢠⢋⡤⠒⠉⠁⠀⠀⠉⠒⠊⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣀⢀⣀⢉⠉⠐⢺⢠⠰⠑⠈⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⢰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠸⡼⡧⡀⠀⠀⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠱⡈⠒⠤⣘⡄⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⢰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠱⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠘⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣟⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠉⢢⡀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⢸⡖⠀⠀⠀⠀⠀⠀⠀⠈⠒⠤⣀⠀⠀⠀⢀⠃⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⢸⠁⣀⠤⠒⠀⠀⠀⠀⠀⠀⠀⠈⠑⢄⣠⠂⢠⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠄⠀⡼⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠚⠁⣴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠄⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡜⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⠄⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢁⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠉⣰⡯⢿⠶⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⡠⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠉⠀⠀⠁⠀⠀⠚⠓⠒⠒⠒⠒⠂⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+$ cat setup.txt
+───────────
+Laptop:    Framework 13 AMD
+Desktop:   Custom PC
+Mac:       MacBook Pro 14" M1 Pro
+Phone:     iPhone 17 Pro
+Console:   Ayn Thor · Nintendo
+
+OS:        Debian GNOME / macOS
+Shell:     zsh
+Editor:    <a href="https://zed.dev/" target="_blank">Zed</a>
+Browser:   <a href="https://zen-browser.app/" target="_blank">Zen</a>
+Terminal:  <a href="https://www.warp.dev/" target="_blank">Warp</a>
+</pre>
+
+</td>
+</tr>
+</table>
