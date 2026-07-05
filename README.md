@@ -35,7 +35,8 @@ $ cat work.conf
 
 [current]       <a href="https://www.mediaexpert.pl/">Media Expert App</a>
 [personal]      <a href="https://mangose.app/">Mangose</a>
-[open-source]   open to collaboration
+[open-source]   <a href="https://github.com/maddybo/tagcss/">TagCSS</a>
+[status]        open to collaboration
 [interests]     frontend · mobile · AI · productivity
 
 $ cat stack.conf
