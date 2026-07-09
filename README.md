@@ -35,7 +35,7 @@ $ cat work.conf
 
 [current]       <a href="https://www.mediaexpert.pl/">Media Expert App</a>
 [personal]      <a href="https://mangose.app/">Mangose</a>
-[open-source]   <a href="https://github.com/maddybo/tagcss/">TagCSS</a>
+[open-source]   <a href="https://github.com/maddybo/send-to-new-workspace/">send-to-new-workspace</a> | <a href="https://github.com/maddybo/tagcss/">TagCSS</a>
 [status]        open to collaboration
 [interests]     frontend · mobile · AI · productivity
 
